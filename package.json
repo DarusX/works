@@ -18,5 +18,14 @@
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^11.1.1",
+        "@fortawesome/fontawesome-free": "^5.4.1",
+        "datatables.net": "^1.10.19",
+        "datatables.net-bs4": "^1.10.19",
+        "datatables.net-buttons": "^1.5.4",
+        "datatables.net-buttons-bs4": "^1.5.4",
+        "sweetalert": "^2.1.0"
     }
 }
